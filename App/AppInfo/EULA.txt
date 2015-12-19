@@ -1,0 +1,17 @@
+﻿AquaSnap End-User License Agreement (EULA)
+
+Important: Please read the entire agreement before you install this program. By proceeding with the installation you agree to this license.
+
+License Agreement
+
+This license agreement applies to AquaSnap Copyright © 2009 Grégory Journé. All rights reserved. Except where otherwise noted, all program data of the software AquaSnap are under the copyright of Grégory Journé.
+
+1. The software is totally free for a personal use only. If you wish to use it for business purposes, you must purchase the paid version named AquaSnap Pro.
+
+2. Licensee may not modify the files contained in the software archive in any way, or for any reason without written permission from the author. Licensee of this agreement may not reverse engineer, decompile, disassemble, or create derivative works of, the software.
+
+3. This software is copyrighted. However, licensee may freely copy and share the software with others. No charge may be collected for the distribution. The files that are included in the software archive may be distributed, provided that all files are distributed together. No files may be distributed unless all files are included.
+
+4. The software is provided "AS IS" without any warranty, either expressed or implied, including, but not limited to, the implied warranties of merchantability and fitness for a particular purpose. The use of this software happens on your own risk. In no event shall the author be held liable for any damages arising from the use of this software.
+
+5. If any term of license agreement named above becomes void by applicable law, this term will be excepted. All other terms of this agreement will persist.
